@@ -9,7 +9,7 @@ This repository covers my analysis of Machine Learning projects in the areas suc
 
 Some projects are also given on Cross-Validation and Dimensionality Reduction approaches:
 
-1.  [Dimensionality Reduction (PCA and LDA) - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/DimensionalityReduction.ipynb)
+1.  [Dimensionality Reduction (Principal Component Analysis and Linear Discriminant Analysis) - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/DimensionalityReduction.ipynb)
 
 
 
