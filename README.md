@@ -3,6 +3,10 @@
 
 This repository covers my analysis of Machine Learning projects in the areas such as: 
 1. Clustering - eg. to identify customer groups based on purchase histories
+  (i).  [k-Means and Hierarchial Clustering on Iris Species Data - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/DimensionalityReduction.ipynb)
+
+
+
 2. Association based on frequent itemset mining 
 3. Anomaly Detection systems to identify the odd-one-out data
 4. Recommender systems for giving recommendations to customers based on their ratings and likings of particular events
