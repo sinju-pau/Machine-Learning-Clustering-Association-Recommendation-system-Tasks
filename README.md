@@ -9,7 +9,7 @@ This repository covers my analysis of Machine Learning projects in the areas suc
 
 2. Association based on frequent itemset mining 
 
-      [Association Rule Learning : AprioriI and Eclat on the Groceries Data - using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/ClusteringIrisData.ipynb)
+      [Association Rule Learning : AprioriI and Eclat on the Groceries Data - using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/AssociationRulesGroceriesData.ipynb)
 
 3. Anomaly Detection systems to identify the odd-one-out data
 4. Recommender systems for giving recommendations to customers based on their ratings and likings of particular events
