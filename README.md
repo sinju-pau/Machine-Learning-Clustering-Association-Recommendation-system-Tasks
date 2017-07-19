@@ -13,7 +13,7 @@ This repository covers my analysis of Machine Learning projects in the areas suc
 
 3. Anomaly Detection systems to identify the odd-one-out data
 
-    [Anomalies/Ouliers/Intrusion Detection on KDD Competition Data - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/anomalyKDD.ipynb)
+    [Anomalies/Outliers/Intrusion Detection on KDD Competition Data - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/anomalyKDD.ipynb)
 
 
 4. Recommender systems for giving recommendations to customers based on their ratings and likings of particular events
