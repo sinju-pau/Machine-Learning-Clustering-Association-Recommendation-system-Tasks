@@ -12,6 +12,9 @@ This repository covers my analysis of Machine Learning projects in the areas suc
       [Association Rule Learning : Apriori and Eclat on the Groceries Data - using R](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/AssociationRulesGroceriesData.ipynb)
 
 3. Anomaly Detection systems to identify the odd-one-out data
+      [Anomalies/Ouliers/Intrusion Detection - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/AssociationRulesGroceriesData.ipynb)
+
+
 4. Recommender systems for giving recommendations to customers based on their ratings and likings of particular events
 
 Some projects are also given on Cross-Validation and Dimensionality Reduction approaches:
