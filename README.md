@@ -18,7 +18,7 @@ This repository covers my analysis of Machine Learning projects in the areas suc
 
 4. Recommender systems for giving recommendations to customers based on their ratings and likings of particular events
 
-    [Recommender System on MovieLens Data - using Python]()
+    [Recommender System on MovieLens Data - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/RecommenderSystemInPython.ipynb)
 
 
 Some projects are also given on Cross-Validation and Dimensionality Reduction approaches:
