@@ -21,11 +21,15 @@ This repository covers my analysis of Machine Learning projects in the areas suc
     [Recommender System on MovieLens Data - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/RecommenderSystemInPython.ipynb)
 
 
-Some projects are also given on Cross-Validation and Dimensionality Reduction approaches:
+Here are some projects on Cross-Validation, Dimensionality Reduction approaches:
 
   1.  [Dimensionality Reduction (Principal Component Analysis and Linear Discriminant Analysis) - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/DimensionalityReduction.ipynb)
    
   2.  [Cross-Validation on Gesture Phase Segmentation Data - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/GesturePhaseData-CV.ipynb)
+  
+Data Visualization for Data analysis projects
+  
+  3.  [Data Visualization using Matplotlib in Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/GesturePhaseData-CV.ipynb)
    
    
 
