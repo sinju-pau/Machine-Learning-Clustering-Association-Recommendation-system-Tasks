@@ -27,9 +27,7 @@ Here are some projects on Cross-Validation, Dimensionality Reduction approaches:
    
   2.  [Cross-Validation on Gesture Phase Segmentation Data - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/GesturePhaseData-CV.ipynb)
   
-Data Visualization for Data analysis projects
-  
-  1.  [Data Visualization using Matplotlib in Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/DataVisualizationWithMatplotlib.ipynb)
+
    
    
 
