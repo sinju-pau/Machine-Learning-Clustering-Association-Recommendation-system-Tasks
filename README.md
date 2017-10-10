@@ -27,7 +27,7 @@ Here are some projects on Cross-Validation, Dimensionality Reduction, and Natura
    
   2.  [Cross-Validation on Gesture Phase Segmentation Data - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/GesturePhaseData-CV.ipynb)
   
-  3.  [Natural Language Processing : Analyzing text for Fake or Real News predictions - using Python]()
+  3.  [Natural Language Processing : Analyzing text for Fake or Real News predictions - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/NLPFakeNews.ipynb)
   
 
    
