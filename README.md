@@ -52,7 +52,7 @@ To install the libraries in R, appropriate codes will be given at the beginning 
 
 You will also need to have software installed to run and execute a [Jupyter Notebook](http://ipython.org/notebook.html)
 
-It is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution of Python, which already has the above packages and more included. Make sure that Python 3.6 installer is selected. 
+It is highly recommended that you install the [Anaconda](http://continuum.io/downloads) distribution, which already has the above packages (including R) and more included. Make sure that Python 3.6 installer is selected. 
 
 ## Code
 
