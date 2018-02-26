@@ -1,7 +1,10 @@
 # Machine Learning Clustering, Association, Anomaly Detection Systems, Recommendation Systems
 
 
-This repository covers my analysis of Machine Learning projects in the areas such as: 
+This repository covers the analysis of datasets using various machine learning algorithms with varying complexities. Tha analysis is performed in R as well as in Python using Ipython Notebooks(.ipynb files). 
+
+A working knowledge of R and Python is required to read through the scripts.
+
 1. Clustering - eg. to identify customer groups based on purchase histories or to classify plants according to their characteristic features
 
     [k-Means and Hierarchial Clustering on Iris Species Data - using Python](http://nbviewer.jupyter.org/github/sinju-pau/Machine-Learning-Clustering-Association-Recommender-systems/blob/master/ClusteringIrisData.ipynb)
